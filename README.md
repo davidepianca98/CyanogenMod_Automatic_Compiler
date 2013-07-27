@@ -10,6 +10,6 @@ chmod +x cm.sh
 
 ./cm.sh
 
-Follow the setup and the script will do 1000 builds.
+Follow the setup
 
 You can stop it pressing CTRL+C
